@@ -19,7 +19,7 @@ def speak_to_grandma(speak)
     
     elsif speak == speak.downcase
   		return  "HUH?! SPEAK UP, SONNY!"
-    elsif speak == speak.downcase
+    else speak == speak.downcase
       return "HUH?! SPEAK UP, SONNY!"
       
       
