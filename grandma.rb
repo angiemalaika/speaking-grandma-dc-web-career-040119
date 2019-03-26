@@ -20,5 +20,7 @@ def speak_to_grandma(speak)
   elseif speak == speak.downcase
     return 
     "HUH?! SPEAK UP, SONNY!"
+    
+    
   end
 end
